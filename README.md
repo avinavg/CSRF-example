@@ -11,4 +11,5 @@ Service A : contains the service that you log-in to i.e the service vulnerable t
 		- /letMeIn : a temporary endpoint to log you in without entering your credentials again 		
 		
 Service B : A malicious service that has imp endpoints of serviceA that it can call once you log-on to Service-A
+		
 		- /sayHi : Test Endpoint
