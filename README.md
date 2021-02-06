@@ -1,5 +1,8 @@
 # CSRF-example
 
+
+How To Run : Clone the project and Run the main method in Application.java from IntelliJ and wait for service to start 
+
 Service A : contains the service that you log-in to i.e the service vulnerable to CSRF, it exposes the following endpoints
 
 		- / : Starting default endpoint for authentication; username is your VPN username and for password just enter password 
