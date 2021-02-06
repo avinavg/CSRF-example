@@ -4,6 +4,7 @@
 # How To Run :
 	Clone this project and Run the main method in Application.java from IntelliJ and wait for service to start 
 		- Service A will start on port 8080 by default 
+		
 	Clone service-B using this url " https://github.com/avinavg/serviceB.git" and follow the same procedure for it too
 		- Service B is configured to start at port 8081 
 		
